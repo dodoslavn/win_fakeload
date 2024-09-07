@@ -1,0 +1,7 @@
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\bin\Debug\FakeLoad_console.exe.config
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\bin\Debug\FakeLoad_console.exe
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\bin\Debug\FakeLoad_console.pdb
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\obj\Debug\FakeLoad_console.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\obj\Debug\FakeLoad_console.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\obj\Debug\FakeLoad_console.exe
+C:\Users\domin\source\repos\FakeLoad_console\FakeLoad_console\obj\Debug\FakeLoad_console.pdb
